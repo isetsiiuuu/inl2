@@ -1,2 +1,1 @@
-# inl-mning2
-iset
+# inlamning-project
